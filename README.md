@@ -1,6 +1,8 @@
 # git-rebase-demo
-hi, everyone
+hi, everyone. 
+
 I am Daniel.
+
 Enjoy my share.....
 
 this is test
